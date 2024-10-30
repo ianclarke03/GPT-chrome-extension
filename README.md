@@ -1,3 +1,5 @@
+Description: A chatGPT chrome extension
+
 #Steps for running:
 
 1) go to chrome://extensions/
